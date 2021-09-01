@@ -1,0 +1,13 @@
+
+
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="/Users/harshithakeshav/IdeaProjects/Selenium_Step_By_Step/src/test/java/tests/TestCase_PF.java">
+        <classes>
+            <class name="tests.TestCase_PF">
+            <methods>
+                <include name="testAmazonHomePAge2"/>
+            </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
